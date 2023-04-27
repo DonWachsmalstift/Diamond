@@ -13,13 +13,17 @@
 --- 
 ### To guarantee gas tightness the following safety concept exists. 
 - For all gas connections, gas-tight Swagelok and Hy-Lok fittings are used, as well as metal pipes. The dosing system of the gas mixture consists of three Bronkhorst 200-CV-002-RGD-33-V mass flow controller (will probably be replaced by newer models of the same company), which are monitored and controlled via a FLOW BUS system on a PC. A maximum gas flow of 20 mL/min will be used under a pressure of 1 atm. A temperature resistant quartz capillary as a sample container will be used. Capillaries will come prepared with the catalyst held by quartz wool plugs. This capillary is connected with gas-tight Swagelok fittings and graphene ferrules. The whole setup will be screwed on the sample stage.
-- The same setup was just used at a beamtime at DESY and can be seen in Figure 3. 
+- The same setup was just used at a beamtime at DESY and can be seen in Figure 3. The flow cell was installed upside down on a X/Y stage, allowing sample exchange to run smooth. The X/Y stage can be seen highlighted in Figure 4.
 
 <div style="text-align:center">
-    <img src="./images/new_flow_cell_DESYsetup.jpeg" alt="Figure of the setup at DESY" style =width:75%>
+    <img src="./images/new_flow_cell_DESYsetup.jpeg" alt="Figure 3: of the setup at DESY" style =width:75%>
     <p><em>Figure 3: Comparable experimental setup at DESY</em></p>
 </div>
 
+<div style="text-align:center">
+    <img src="./images/DESYsetup2.jpg" alt="Figure 4: Closer view on the X/Y stationof the setup at DESY 2" style =width:75%>
+    <p><em>Figure 4: Close up on the X/Y stage</em></p>
+</div>
 
 ---
 - Prior to the experiment, the flow cell will be purged with helium for approximately 10 minutes. This will be controlled with a gas sensor, gas flow meter and mass spectrometer. When the flow cell is gas tight, dosing with hydrogen can be started and another leak test with H2 sensor is done. After this, the flow cell will be covered with a heatshield, for stabilizing the temperatures around the sample, while preventing anyone from touching the wire. The exhaust gas will end in an exhaust pipe in safe distance to the heating coils.
