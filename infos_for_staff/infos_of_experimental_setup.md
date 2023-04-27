@@ -1,7 +1,15 @@
 ## Step by Step description of the experiment
 - A flow cell will be heated by heating coils (see Fig. 1), remotely controlled via an Eurotherm EPC3004 controller. Temperatures of up to 600 °C will be reached. H2, He and CO2 as gases will be used. 
-![flow cell](/images/new_flow_cell.jpeg "Figure of the gas flow cell")
-![flow cell](/images/Eurotherme.jpg "Eurotherme controller")
+![flow cell](./images/new_flow_cell.jpeg "Figure of the gas flow cell")
+![flow cell](./images/Eurotherme.jpg "Eurotherme controller")
+
+
+<div style="text-align:center">
+  <img src="./images/Eurotherme.jpg" alt="image description" style="width:50%">
+  <p><em>caption text</em></p>
+</div>
+
+
 --- 
 ### To guarantee gas tightness the following safety concept exists. 
 - For all gas connections, gas-tight Swagelok and Hy-Lok fittings are used, as well as steel capillaries. The dosing system of the gas mixture consists of three Bronkhorst 200-CV-002-RGD-33-V mass flow controller (will probably be replaced by newer models of the same company), which are monitored and controlled via a FLOW BUS system on a PC. A maximum gas flow of 20 mL/min will be used under a pressure of 1 atm. A temperature resistant quartz capillary as a sample container will be used. Capillaries will come prepared with the catalyst held by quartz wool plugs. This capillary is connected with gas-tight Swagelok fittings and graphene ferrules. The whole setup will be screwed on the sample stage.
