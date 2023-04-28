@@ -12,10 +12,11 @@
 # Check ex-situ results from DESY if needed remeasure with longer exposer at diamond
 
 # shopping list
-- new thermo couples | maybe ones that go beyond 630 °C 
-- capillarys
-- hy-lok
-- ceramics
-- Steckdosenadapter
-- heatshield for flow-cell
+- [x] trajan ferrules for 1/16"
+- [ ] new thermo couples | maybe ones that go beyond 630 °C 
+- [ ] capillarys
+- [ ] hy-lok
+- [ ] ceramics
+- [ ] Steckdosenadapter
+- [ ] heatshield for flow-cell
     
