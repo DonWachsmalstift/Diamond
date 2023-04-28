@@ -3,7 +3,7 @@
 # ToDo:
 - [ ] Get used to linux
   - Script/mask creation with: pyFAI-calib2 
-- [ ] shopping list 
+- [ ] ceck 1_tobuy.md 
 - [ ] Workflow for dpf/dxrd pdfgetx3
 - [ ] learn pyFAI-integrate
 - [ ] learn xpdtools
@@ -19,10 +19,3 @@
     - does the detector need to be reset in between sets?
     - ...
 
-## shopping list
-    - capillarys
-    - hy-lok
-    - ceramics
-    - Steckdosenadapter
-    - heatshield for flow-cell
-    
