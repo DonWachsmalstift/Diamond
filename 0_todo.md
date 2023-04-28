@@ -10,7 +10,10 @@
 - [ ] Create easy to use image_to_iq script (for xpdtools)
 - [ ] learn about the new detector
 ---
-
+## Software
+- better way to control MFCs, T controller simulataneously
+- How to record MFC's 
+- How to use the MS
 ## Detector
     - maximum counts per pixel (count rate)
     - what about the gaps between the modules (does it result in some sort of kinks during the integration?)
