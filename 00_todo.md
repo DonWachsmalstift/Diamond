@@ -1,6 +1,7 @@
-#checklist
+# Checklist
 
-# ToDo:
+## ToDo:
+- [ ] optimize flow cell T pice thermocouple connection, too flimsy/complex now
 - [ ] Get used to linux
   - Script/mask creation with: pyFAI-calib2 
 - [ ] ceck 1_tobuy.md 
@@ -12,7 +13,14 @@
 - [x] sample list
 ---
 
-# New _Arc_ Detector
+## Software
+- better way to control MFCs, T controller simulataneously
+- How to record MFC's 
+- How to use the MS
+---
+
+## Detector
+> _Arc_ Detector
 Diamond
 has developed the _ARC_ detector as the ideal detector for I 15 1
 Photon counting capabilities and high detection efficiency make it the perfect tool for accurately measuring weak diffuse scattering data at high Q. The 4.7 megapixel detector consists of 24 modules arranged on an arc at a radius of 250 mm, giving an angular 2θ coverage of 83°. The _ARC_ will be
@@ -25,10 +33,13 @@ be able to collect data to a $Q_{max}$ of 27 $Å^{-1}$ (at 76 keV) at a rate of 
     <p><em>Figure a: a) Engineering drawing of the ARC on its goniometer, b) internals of the ARC during assembly and c) the completed ARC during testing on I 15 1</em></p>
 </div>
 
-    - maximum counts per pixel (count rate)
-    - what about the gaps between the modules (does it result in some sort of kinks during the integration?)
-    - what reset intervals to chose (should not interfer with experimental timings)
-    - how long do the experiments take
-    - does the detector need to be reset in between sets?
-    - ...
+- maximum counts per pixel (count rate)
+- what about the gaps between the modules (does it result in some sort of kinks during the integration?)
+- what reset intervals to chose (should not interfer with experimental timings)
+- how long do the experiments take
+- does the detector need to be reset in between sets?
+- ...
+---
 
+## Remeasure 
+- What $ex-situ$ sample need to be remeasured from DESY P02.1
