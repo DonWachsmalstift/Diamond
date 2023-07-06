@@ -9,6 +9,7 @@
 - [ ] learn xpdtools
 - [ ] Create easy to use image_to_iq script (for xpdtools)
 - [ ] learn about the new detector
+- [x] sample list
 ---
 
 # New _Arc_ Detector
