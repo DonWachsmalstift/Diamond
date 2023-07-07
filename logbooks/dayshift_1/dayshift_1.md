@@ -1,4 +1,4 @@
-# huge delay since cryocooler malfunction
+## huge delay since cryocooler malfunction
 ## start of alligning and measuring stuff roughly 17:00
 
 installation of MS of I15-1
@@ -80,7 +80,9 @@ air con in room is a bit weak, so recovering the detector every now and then hel
 in the detector image there are streaks above and below the beamstop --> likely shadows / parasitic scattering from the wires
 
 # MS control software
-
+run a scan from galery --> Bar Mode, select 1 - 100
+after experiment: press yellow Stop bottom
+export as *.csv
  
 
 
