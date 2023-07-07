@@ -17,7 +17,8 @@ Programmer $\rightarrow$ Run $\rightarrow$ Mode $\rightarrow$ run
 
 # instrument control software
 
-
+samplein()
+sampleout()
 
 
 
