@@ -83,6 +83,6 @@ run a scan from galery --> Bar Mode, select 1 - 100
 after experiment: press yellow Stop bottom
 export as *.csv
  
-
-
+## tightening capillary and validate MS functioning
+empty capillary mounted, tight, gases flown through, weight signal detected in MS
 
