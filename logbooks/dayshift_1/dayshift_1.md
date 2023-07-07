@@ -10,10 +10,17 @@ connection of gas setup from industrial beamline to our setup
 Varex detector mounted on one tip
 ## maximum counts allowed: 35.000 cts/per image (i.e. 3s - exposure)
 
+
 Laptop for control of T ramp in server room next door makes T log file
 
 
-## programming heat ramps
+# programming heat ramps
+- saving data:<br>
+ OCP-Scope $\rightarrow$ Default $\rightarrow$ Loop (Sp1 & Sp2) $\rightarrow$ Main (Working Sp) <br>
+[ ] file called 2023_07_07_17:40
+- Temp Ramp programming / starting:<br>
+Programmer $\rightarrow$ Run $\rightarrow$ Mode $\rightarrow$ run
+
 
 
 ## instrument control software
