@@ -40,12 +40,15 @@ Data Acquisition Client
 
 stop running script by going to console, click "abort all running commands", then go to tab "queue" and find most recent running script, press button on the right "stop job"
 
-# Microreactor flow control
+# Microreactor - Gas flow control
 - software opened in another desktop
 - numbers in ml/min
 - MF2: He
 - MF4: H2
 - MF5: CO2 
+Pos1 CO2 He H2
+Pos2 CO2 He Air
+
 
 ## calibration
 16:49 mount of LaB6 into flow cell for setup and calibration
@@ -72,6 +75,13 @@ data integration now outputs Q
 cake integration of data uses only a very small cake of data (ca. 25 %), throwing away most of it
 
 # empty capillary collected again #55374
+
+air con in room is a bit weak, so recovering the detector every now and then helps
+in the detector image there are streaks above and below the beamstop --> likely shadows / parasitic scattering from the wires
+
+# MS control software
+
+ 
 
 
 
