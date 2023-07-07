@@ -10,9 +10,7 @@ connection of gas setup from industrial beamline to our setup
 Varex detector mounted on one tip
 ## maximum counts allowed: 35.000 cts/per image (i.e. 3s - exposure)
 
-
 Laptop for control of T ramp in server room next door makes T log file
-
 
 # programming heat ramps
 - saving data:<br>
@@ -20,8 +18,6 @@ Laptop for control of T ramp in server room next door makes T log file
 [ ] file called 2023_07_07_17:40
 - Temp Ramp programming / starting:<br>
 Programmer $\rightarrow$ Run $\rightarrow$ Mode $\rightarrow$ run
-
-
 
 ## instrument control software
 moves sample stage in and out to predefined positions:
@@ -60,10 +56,11 @@ The flow cell cannot be driven in vertical direction with any motor, so no absor
 17:56: empty sample environment
 - 5 s: 55368, #55366 - 55368 have x-axis from 0 to ~35 instead of 0 to ~3500
 - 60 s / 10 frames: #55369
-18:20: empty capillary
-- 
-
-
-
+18:20: empty capillary with Al-Kapton shield
+- #55370: 5 frames à 120 s
+19:19: empty capillary without Al-Kapton shield
+- #55371: 5 frames à 120 s
+- increase in background at ca. 31 ° 2theta corresponds to ca. 80% of Q-range; this correlates to end of triangular shaded area on left detector side
+- currently 0.8 ° 2theta --> Qmin = 4pi/0.16*sin(0.4) = 0.55 A-1
 
 
