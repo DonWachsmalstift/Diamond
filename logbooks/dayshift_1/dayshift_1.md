@@ -38,6 +38,7 @@ processed directory/tth_pe2: *.xy with I(2theta)
 Data Acquisition Client
 - click dataset left --> click "Azimuthal Integrate [1,3841] right --> choose Plot Type "Line"
 
+stop running script by going to console, click "abort all running commands", then go to tab "queue" and find most recent running script, press button on the right "stop job"
 
 # Microreactor flow control
 - software opened in another desktop
@@ -62,5 +63,15 @@ The flow cell cannot be driven in vertical direction with any motor, so no absor
 - #55371: 5 frames à 120 s
 - increase in background at ca. 31 ° 2theta corresponds to ca. 80% of Q-range; this correlates to end of triangular shaded area on left detector side
 - currently 0.8 ° 2theta --> Qmin = 4pi/0.16*sin(0.4) = 0.55 A-1
+- the script had f(1) as default, so all measurements before were measured with the filter, that's why data is noisy
+- #55372: 4 frames à 120 s (aborted during running to access hutch), without filter
+
+## Re-alignment and MS connection with Phil, 20:00
+Beamstop is moved a bit closer, Qmin changed to ~ 0.6 A-1
+data integration now outputs Q
+cake integration of data uses only a very small cake of data (ca. 25 %), throwing away most of it
+
+# empty capillary collected again #55374
+
 
 
