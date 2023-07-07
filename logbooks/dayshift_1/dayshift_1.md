@@ -8,8 +8,11 @@ connection of gas setup from industrial beamline to our setup
 
 
 # programming heat ramps
-
-
+- saving data:<br>
+ OCP-Scope $\rightarrow$ Default $\rightarrow$ Loop (Sp1 & Sp2) $\rightarrow$ Main (Working Sp) <br>
+[ ] file called 2023_07_07_17:40
+- Temp Ramp programming / starting:<br>
+Programmer $\rightarrow$ Run $\rightarrow$ Mode $\rightarrow$ run
 
 
 # instrument control software
