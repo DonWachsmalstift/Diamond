@@ -12,7 +12,7 @@ Varex detector mounted on one tip
 
 Laptop for control of T ramp in server room next door makes T log file
 
-# programming heat ramps
+## programming heat ramps
 - saving data:<br>
  OCP-Scope $\rightarrow$ Default $\rightarrow$ Loop (Sp1 & Sp2) $\rightarrow$ Main (Working Sp) <br>
 [ ] file called 2023_07_07_17:40
@@ -40,7 +40,7 @@ Data Acquisition Client
 
 stop running script by going to console, click "abort all running commands", then go to tab "queue" and find most recent running script, press button on the right "stop job"
 
-# Microreactor - Gas flow control
+## Microreactor - Gas flow control
 - software opened in another desktop
 - numbers in ml/min
 - MF2: He
@@ -48,7 +48,6 @@ stop running script by going to console, click "abort all running commands", the
 - MF5: CO2 
 Pos1 CO2 He H2
 Pos2 CO2 He Air
-
 
 ## calibration
 16:49 mount of LaB6 into flow cell for setup and calibration
@@ -74,12 +73,12 @@ Beamstop is moved a bit closer, Qmin changed to ~ 0.6 A-1
 data integration now outputs Q
 cake integration of data uses only a very small cake of data (ca. 25 %), throwing away most of it
 
-# empty capillary collected again #55374
+## empty capillary collected again #55374
 
 air con in room is a bit weak, so recovering the detector every now and then helps
 in the detector image there are streaks above and below the beamstop --> likely shadows / parasitic scattering from the wires
 
-# MS control software
+## MS control software
 run a scan from galery --> Bar Mode, select 1 - 100
 after experiment: press yellow Stop bottom
 export as *.csv
