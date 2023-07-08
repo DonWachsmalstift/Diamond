@@ -1,4 +1,13 @@
+## summation of missed beamtime due to mono problems ##
+07.07.
+- no setup until 14 o'clock
+- no measurement started before 22 o'clock
+- mono problems in the night
+08.07.:
+- 08:30 mono went off when first catalytic cycle started
 
+
+## start of day shift at 7:30##
 
 thermocouple was somewhat away from sample; hence, T(sample) > T(thermocouple) by ca. 100 °C during calcination <br>
   --> thermocouple needs to be set to an estimated 250 °C for cooling down to have 350 °C<br>
@@ -12,7 +21,7 @@ data collection aborted at 8:20<br>
 
 **8:21** catalysis started #55380 with frame time 30 s, potential run time of 3*60*2 = 3 h and gas ratio of 0.5 mL He, 16 mL H2, 4 mL CO2
 intensity is gone, f was set to 100 %<br>
-when looking at PCA1, this component is constant for 20 frames, then it decreases pretty linearly; the intensity in the colour plot also decreases --> correlates likely with mono failur <br>
+when looking at PCA1, this component decreases strongly; the intensity in the colour plot of the highest peak also decreases --> correlates likely with mono failur <br>
 abort 8.32 last frame 23 <br>
 
 catalysis still running
