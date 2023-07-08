@@ -70,12 +70,16 @@ Since we could however detect no leak, we decided to start calcination.
 - because intensity with f(1) was only 260 cts, we chose to measure with f2=10
 - when measurement started we were at ~ 60 °C: #55388  with ca. 2600 cts maximum
 - Ag-Hbea decomposed strongly at ~ frame 35, very faint Ag peaks emerged, and at ~ scan 135 Ag peaks emerges
+- 
+**Ag peaks at 2.7, 3.1, 4.3, 5.1, 5.3 A-1**
+
 
 **14:44 flushing of Ag-Hbea with He 20 mL/min, start in frame 254** <br>
 aborted in frame 286 <br>
 heat ramp was programmed to constant 450 °C (set to 400 °C on controller because of T offset due to thermocouple position) <br>
 **14:58 reduction of Ag-Hbea** with 20 mL/min H2 **#55389**
-
+nothing happens besides an increase in intensity of the Ag peak at 2.7 A-1 which is about finished according to PCA analysis by ~ frame 40
+in frame 108, change of H2 flow to 40 mL/min
 
 
 
