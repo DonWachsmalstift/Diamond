@@ -58,7 +58,7 @@ MS File wurde als La0.5Ce1.5NiO4.csv gespeichert
 MS showed constantly huge N2 and O2 signal although 50 mL/min He were purged and capillary seemed tight; restart of MS software and then the scan took very long (several seconds to a minute) while it was done within few seconds yesterday.
 Since we could however detect no leak, we decided to start calcination.
 
-**12:08** calcination of Ag-H-bea 
+**12:08 calcination of Ag-H-bea**
 - programmed for 4 h, but aimed for 3 h of calcination; 10 mL of air, heat ramp programmed
 - #55384: 30 s frames, "calc_AgHbea", started at ~ 12:09
 - heat ramp started thereafter manually, ca. 12:10
