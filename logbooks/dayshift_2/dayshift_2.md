@@ -5,7 +5,7 @@
 - mono problems in the night <br>
 
 08.07.:
-- 08:30 mono went off when first catalytic cycle started
+- 08:30 mono went off when first catalytic cycle started; took 2 hours to solve problem
 
 
 ## start of day shift at 7:30##
@@ -41,8 +41,11 @@ optics tube between GV2 and JGV1 went red again, then also the tube between JGV1
 
 > #! several powder rings are burnt into the detector --> adjust measurement strategy to have some sleep time for longer runs
 
+**10:07** Phil phoned back <br>
+List of utilities --> Beamlines --> BL15J Pair Distribution Function --> Synoptic-BL15J -->JLaue Cooler Button --> CryoOC Schematic Screen: If "Run" is not red, then call Phil immediately.
 
-
+questions to Phil: way to take dark picture or sleep every 20 min? Answer: do not take regular darks despite afterglow, because the ~ 50 cts afterglow 
+ 
 
 
 
