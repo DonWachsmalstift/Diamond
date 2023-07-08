@@ -6,21 +6,20 @@
 
 08.07.:
 - 08:30 mono went off when first catalytic cycle started; took 2 hours to solve problem
-
+- however by this, the in-situ experiment had to be aborted 
 
 ## start of day shift at 7:30##
-
 thermocouple was somewhat away from sample; hence, T(sample) > T(thermocouple) by ca. 100 °C during calcination <br>
   --> thermocouple needs to be set to an estimated 250 °C for cooling down to have 350 °C<br>
-  --> reprogrammed by Benjamin and Felix <br>
+  --> reprogrammed by Benjamin and Felix, because we already started cooling; then maximum power for 5 s before drop to 250 °C <br>
 
-**7:42** data collection started for cooling down "Cool down to catalysis" #55379<br>
+**7:42** data collection started for **cooling down "Cool down to catalysis" #55379** <br>
 T equilibrated in thermocouple at 250 °C<br>
 data collection aborted at 8:20<br>
 
 > technician came in at 7:52 to refill cryo to 70 %
 
-**8:21** catalysis started #55380 with frame time 30 s, potential run time of 3*60*2 = 3 h and gas ratio of 0.5 mL He, 16 mL H2, 4 mL CO2
+**8:21 catalysis started #55380** with frame time 30 s, potential run time of 3*60*2 = 3 h and gas ratio of 0.5 mL He, 16 mL H2, 4 mL CO2
 intensity is gone, f was set to 100 %<br>
 when looking at PCA1, this component decreases strongly; the intensity in the colour plot of the highest peak also decreases --> correlates likely with mono failur <br>
 abort 8.32 last frame 23 <br>
@@ -44,8 +43,17 @@ optics tube between GV2 and JGV1 went red again, then also the tube between JGV1
 **10:07** Phil phoned back <br>
 List of utilities --> Beamlines --> BL15J Pair Distribution Function --> Synoptic-BL15J -->JLaue Cooler Button --> CryoOC Schematic Screen: If "Run" is not red, then call Phil immediately.
 
-questions to Phil: way to take dark picture or sleep every 20 min? Answer: do not take regular darks despite afterglow, because the ~ 50 cts afterglow 
+questions to Phil: way to take dark picture or sleep every 20 min? Answer: do not take regular darks despite afterglow, because the ~ 50 cts afterglow is not dramatic compared to 20,000 cts
+
+**10:14 catalysis experiment restarted with #55383** <br> 
+Nota: the catalyst was at T = 350 °C for the waiting time of 2 h, but only 
  
+the peaks for NiO are at 2.5 and 4.5 disappear upon reduction; <br>
+during the mono repair, we flushed He through the capillary, but there seemed to be some oxidation happening, because the peaks of NiO have reappeared; with the start of catalysis conditions (CO2, H2), the NiO peaks disappeared again. <br>
+Because the catalyst had seen completely undefined conditions (not exact T, re-oxidation), the experiment was aborted at 10:40.
+
+**mounting of Ag-H-beta**
+
 
 
 
