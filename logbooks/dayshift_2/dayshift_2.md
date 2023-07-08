@@ -6,7 +6,8 @@
 
 08.07.:
 - 08:30 mono went off when first catalytic cycle started; took 2 hours to solve problem
-- however by this, the in-situ experiment had to be aborted 
+- however by this, the in-situ experiment had to be aborted
+- 17:30: the MFCs are all not properly calibrated. All flows are only about one third of the specification in mL/min on the control and display panels. The reduction and catalysis from the first night is useless because of bad flows.
 
 # start of day shift at 7:30 #
 
@@ -98,10 +99,15 @@ PICTURE here
 - new dark collected 16:40
 - #55391 with 6 frames each 30 s and f2=1: the dips are almost gone - one dip at 2.9 and 3.6 A-1 remains, but does not seem to stem from #55379
 - #55392 with 6 frames each 30 s and f2=10
+ 
+## checking of MS flow rates ##
+We checked how much mL/min our flow meter detects at the inlet of the flow cell in relation to the mL/min specification in the Microreactor control software.
+> **! all flows were off! you need to adjust about the triple of what you aim for**
 
 # Hbea reduction #
 since no changes should occur during calcination, a very fast heating to 450 °C will be watched followed by reduction
-- #55393, 30 s frames, 
+- **17:25** measurement started **#55393**, 30 s frames, f2=10
+-heating ramp started 17:25, 20 mL/min H2, i.e. 60 mL/min on microreactor --> now also in the MS the H2 detection is significant, but we could still not clarify where the strong N2-O2 signals come from
 
 
 
