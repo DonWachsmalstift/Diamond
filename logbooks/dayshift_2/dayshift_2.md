@@ -66,7 +66,7 @@ MS showed constantly huge N2 and O2 signal although 50 mL/min He were purged and
 Since we could however detect no leak, we decided to start calcination.
 
 **12:08 calcination of Ag-H-bea**
-- programmed for 4 h, but aimed for 3 h of calcination; 10 mL of air, heat ramp programmed
+- programmed for 4 h, but aimed for 3 h of calcination; 10 mL/min of air, heat ramp programmed
 - #55384: 30 s frames, "calc_AgHbea", started at ~ 12:09
 - heat ramp started thereafter manually, ca. 12:10
 - maximum counts were ~ 270 cts and filter was set to 1 %
@@ -100,7 +100,7 @@ PICTURE here
 - #55391 with 6 frames each 30 s and f2=1: the dips are almost gone - one dip at 2.9 and 3.6 A-1 remains, but does not seem to stem from #55379
 - #55392 with 6 frames each 30 s and f2=10
  
-## checking of MS flow rates ##
+# checking of MS flow rates #
 We checked how much mL/min our flow meter detects at the inlet of the flow cell in relation to the mL/min specification in the Microreactor control software.
 > **! all flows were off! you need to adjust about the triple of what you aim for**
 
@@ -108,6 +108,15 @@ We checked how much mL/min our flow meter detects at the inlet of the flow cell 
 since no changes should occur during calcination, a very fast heating to 450 °C will be watched followed by reduction
 - **17:25** measurement started **#55393**, 30 s frames, f2=10
 -heating ramp started 17:25, 20 mL/min H2, i.e. 60 mL/min on microreactor --> now also in the MS the H2 detection is significant, but we could still not clarify where the strong N2-O2 signals come from
+- ramp to 450 °C took ~ 22 min; after 35 min no change at all has occurred.
+- abortion in frame 78
+
+# Cu-Hbea calcination and reduction #
+- air flow of 10 mL/min (on microreactor) to be consistent with calcination of Ag-Hbea (although we know this is only about ~3.3 mL/min)
+- #55394: test image with 30 sec, f2=10, "testshot_CuHbea_withf10"
+- #55395: test image with 30 sec, "testshot_CuHbea_withoutfixedf2"
+- **#55396**: **18:30**: data collection with 30 sec frames, "calcination_CuHbea", start 18:30, heat ramp started during frame 2
+- 
 
 
 
