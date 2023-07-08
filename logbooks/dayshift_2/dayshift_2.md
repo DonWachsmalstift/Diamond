@@ -32,6 +32,8 @@ distance between vales below "RGA3" was red, Phil phoned then it went black agai
 individual exosure #55382 with one frame with no intensity<br>
 optics tube between GV2 and JGV1 went red again, then also the tube between JGV1 and JGV2<br>
 
+
+
 **8:57** Phil phoned that mono went off, catalysis was stopped and hence was running for ca. 35 min
 
 > #! several powder rings are burnt into the detector --> adjust measurement strategy to have some sleep time for longer runs
