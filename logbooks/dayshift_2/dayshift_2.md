@@ -52,8 +52,10 @@ the peaks for NiO are at 2.5 and 4.5 disappear upon reduction; <br>
 during the mono repair, we flushed He through the capillary, but there seemed to be some oxidation happening, because the peaks of NiO have reappeared; with the start of catalysis conditions (CO2, H2), the NiO peaks disappeared again. <br>
 Because the catalyst had seen completely undefined conditions (not exact T, re-oxidation), the experiment was aborted at 10:40.
 
-**mounting of Ag-H-beta**
+MS File wurde als La0.5Ce1.5NiO4.csv gespeichert
 
+**mounting of Ag-H-beta**
+MS showed constantly huge N2 and O2 signal although 50 mL/min He were purged and capillary seemed tight; restart of MS software and then the scan took very long (several seconds to a minute) while it was done within few seconds yesterday.
 
 
 
