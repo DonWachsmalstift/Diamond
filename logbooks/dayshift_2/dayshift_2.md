@@ -64,9 +64,10 @@ Since we could however detect no leak, we decided to start calcination.
 - heat ramp started thereafter manually, ca. 12:10
 - maximum counts were ~ 270 cts and filter was set to 1 %
 - #55385: 
-- manual overwrite of filter to f(10) and restart of data collection with collect_pe2(f2=10): #55387
+- manual overwrite of filter to f(10) and restart of data collection with collect_pe2(f2=10): #55387 intensity 
 - 12:32: start of measurement #55388, but 60 s exposures because of only 2700 cts/image
-- heat ramp started 12🕞
+- heat ramp started 12:33
+- because intensity with f(1) was only 260 cts, we chose to measure with f2=10
 
 
 
