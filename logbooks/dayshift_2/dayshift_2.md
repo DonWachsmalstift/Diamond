@@ -8,7 +8,9 @@
 - 08:30 mono went off when first catalytic cycle started; took 2 hours to solve problem
 - however by this, the in-situ experiment had to be aborted 
 
-## start of day shift at 7:30 ##
+# start of day shift at 7:30 #
+
+## continuation of catalysis of La0.5Ce1.5NiO4 sample from night ##
 thermocouple was somewhat away from sample; hence, T(sample) > T(thermocouple) by ca. 100 °C during calcination <br>
   --> thermocouple needs to be set to an estimated 250 °C for cooling down to have 350 °C<br>
   --> reprogrammed by Benjamin and Felix, because we already started cooling; then maximum power for 5 s before drop to 250 °C <br>
@@ -54,6 +56,8 @@ Because the catalyst had seen completely undefined conditions (not exact T, re-o
 
 MS File wurde als La0.5Ce1.5NiO4.csv gespeichert
 
+# Ag-Hbea calcination and reduction #
+
 **mounting of Ag-H-bea**
 MS showed constantly huge N2 and O2 signal although 50 mL/min He were purged and capillary seemed tight; restart of MS software and then the scan took very long (several seconds to a minute) while it was done within few seconds yesterday.
 Since we could however detect no leak, we decided to start calcination.
@@ -73,7 +77,6 @@ Since we could however detect no leak, we decided to start calcination.
 - 
 **Ag peaks at 2.7, 3.1, 4.3, 5.1, 5.3 A-1**
 
-
 **14:44 flushing of Ag-Hbea with He 20 mL/min, start in frame 254** <br>
 aborted in frame 286 <br>
 heat ramp was programmed to constant 450 °C (set to 400 °C on controller because of T offset due to thermocouple position) <br>
@@ -82,7 +85,9 @@ nothing happens besides an increase in intensity of the Ag peak at 2.7 A-1 which
 in frame 108, change of H2 flow to 40 mL/min
 **16:04** abortion of reduction as no further change occured with last frame 124
 
-**empty capillary**
+# empty capillary #
+yesterday after optimization of beamstop position and collimator optimization, no empty capillary was collected with final setup. <br>
+
 
 
 
