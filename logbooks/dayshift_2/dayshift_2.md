@@ -68,6 +68,7 @@ Since we could however detect no leak, we decided to start calcination.
 - 12:32: start of measurement #55388, but 60 s exposures because of only 2700 cts/image
 - heat ramp started 12:33
 - because intensity with f(1) was only 260 cts, we chose to measure with f2=10
+- when measurement started we were at ~ 60 °C: #55388  with ca. 2600 cts maximum
 
 
 
