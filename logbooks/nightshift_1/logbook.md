@@ -7,3 +7,4 @@
 
 > **Note:** Remember to double-check the setup at the IFK before proceeding further. It's crucial to avoid any potential issues.
 
+- **04:00 AM:** The Beam Monitor is not showing any intensity. We are attempting to run the experiment, but there is no beam available.
