@@ -115,7 +115,7 @@ since no changes should occur during calcination, a very fast heating to 450 °C
 - air flow of 10 mL/min (on microreactor) to be consistent with calcination of Ag-Hbea (although we know this is only about ~3.3 mL/min)
 - #55394: test image with 30 sec, f2=10, "testshot_CuHbea_withf10"
 - #55395: test image with 30 sec, "testshot_CuHbea_withoutfixedf2"
-- **#55396**: **18:30**: data collection with 30 sec frames, "calcination_CuHbea", start 18:30, heat ramp started during frame 2
+- **#55396**: **18:30**: data collection with 30 sec frames, "calcination_CuHbea", start 18:30, heat ramp 5 K/min up to 450 °C (takes 90 min) started during frame 2
 - 
 
 
