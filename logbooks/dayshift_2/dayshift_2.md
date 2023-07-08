@@ -69,6 +69,7 @@ Since we could however detect no leak, we decided to start calcination.
 - heat ramp started 12:33
 - because intensity with f(1) was only 260 cts, we chose to measure with f2=10
 - when measurement started we were at ~ 60 °C: #55388  with ca. 2600 cts maximum
+- Ag-Hbea decomposed strongly at ~ frame 35, very faint Ag peaks emerged, and at ~ scan 135 Ag peaks emerges
 
 
 
