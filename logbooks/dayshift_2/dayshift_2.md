@@ -54,10 +54,17 @@ Because the catalyst had seen completely undefined conditions (not exact T, re-o
 
 MS File wurde als La0.5Ce1.5NiO4.csv gespeichert
 
-**mounting of Ag-H-beta**
+**mounting of Ag-H-bea**
 MS showed constantly huge N2 and O2 signal although 50 mL/min He were purged and capillary seemed tight; restart of MS software and then the scan took very long (several seconds to a minute) while it was done within few seconds yesterday.
+Since we could however detect no leak, we decided to start calcination.
 
-
+**12:08** calcination of Ag-H-bea 
+- programmed for 4 h, but aimed for 3 h of calcination; 10 mL of air, heat ramp programmed
+- #55384: 30 s frames, "calc_AgHbea", started at ~ 12:09
+- heat ramp started thereafter manually, ca. 12:10
+- maximum counts were ~ 270 cts and filter was set to 1 %
+- #55385: 
+- manual overwrite of filter to f(10) and restart of data collection with collect_pe2(f2=10)
 
 
 
