@@ -1,13 +1,13 @@
 # Checklist
 
 ## ToDo:
-- [ ] optimize flow cell T pice thermocouple connection, too flimsy/complex now
+- [x] optimize flow cell T pice thermocouple connection, too flimsy/complex now
 - [ ] Get used to linux
   - Script/mask creation with: pyFAI-calib2 
-- [ ] ceck 1_tobuy.md 
+- [x] ceck 1_tobuy.md 
 - [ ] Workflow for dpf/dxrd pdfgetx3
-- [ ] learn pyFAI-integrate
-- [ ] learn xpdtools
+- [x] learn pyFAI-integrate
+- [x] learn xpdtools
 - [ ] Create easy to use image_to_iq script (for xpdtools)
 - [ ] learn about the new detector
 - [x] sample list
