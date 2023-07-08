@@ -31,7 +31,10 @@ catalysis still running
 distance between vales below "RGA3" was red, Phil phoned then it went black again<br>
 individual exosure #55382 with one frame with no intensity<br>
 optics tube between GV2 and JGV1 went red again, then also the tube between JGV1 and JGV2<br>
-
+<div style="text-align:center">
+    <img src="./20230708_085250.jpg" alt="Photo of the problem" style =width:75%>
+    <p><em>Figure 1: Screenshot of Synoptic overview</em></p>
+</div>
 
 
 **8:57** Phil phoned that mono went off, catalysis was stopped and hence was running for ca. 35 min
