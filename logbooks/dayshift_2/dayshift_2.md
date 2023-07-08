@@ -71,6 +71,9 @@ Since we could however detect no leak, we decided to start calcination.
 - when measurement started we were at ~ 60 °C: #55388  with ca. 2600 cts maximum
 - Ag-Hbea decomposed strongly at ~ frame 35, very faint Ag peaks emerged, and at ~ scan 135 Ag peaks emerges
 
+**14:44** flushing of Ag-Hbea with He 20 mL/min, start in frame 254
+
+**14**
 
 
 
