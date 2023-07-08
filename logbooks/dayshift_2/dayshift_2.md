@@ -89,8 +89,11 @@ Since we could however detect no leak, we decided to start calcination.
 
 # empty capillary #
 yesterday after optimization of beamstop position and collimator optimization, no empty capillary was collected with final setup. <br>
-- #55390 with 6 frames each 30 s and f2=1
+- #55390 with 6 frames each 30 s and f2=1: there are now strong dips in the empty cap data because the burnt in peaks are now subtracted. They match the high peaks from the data file #55379, see picture.
+
+- new dark collected 16:40
 - #55391 with 6 frames each 30 s and f2=10
+
 
 
 
