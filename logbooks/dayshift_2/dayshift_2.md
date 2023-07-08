@@ -50,7 +50,7 @@ questions to Phil: way to take dark picture or sleep every 20 min? Answer: do no
 **10:14 catalysis experiment restarted with #55383** <br> 
 Nota: the catalyst was at T = 350 °C for the waiting time of 2 h, but only 
  
-the peaks for NiO are at 2.5 and 4.5 disappear upon reduction; <br>
+the **peaks for NiO are at 2.5 and 4.5 A-1** disappear upon reduction; <br>
 during the mono repair, we flushed He through the capillary, but there seemed to be some oxidation happening, because the peaks of NiO have reappeared; with the start of catalysis conditions (CO2, H2), the NiO peaks disappeared again. <br>
 Because the catalyst had seen completely undefined conditions (not exact T, re-oxidation), the experiment was aborted at 10:40.
 
@@ -74,15 +74,17 @@ Since we could however detect no leak, we decided to start calcination.
 - because intensity with f(1) was only 260 cts, we chose to measure with f2=10
 - when measurement started we were at ~ 60 °C: #55388  with ca. 2600 cts maximum
 - Ag-Hbea decomposed strongly at ~ frame 35, very faint Ag peaks emerged, and at ~ scan 135 Ag peaks emerges
-- 
+
 **Ag peaks at 2.7, 3.1, 4.3, 5.1, 5.3 A-1**
 
 **14:44 flushing of Ag-Hbea with He 20 mL/min, start in frame 254** <br>
-aborted in frame 286 <br>
-heat ramp was programmed to constant 450 °C (set to 400 °C on controller because of T offset due to thermocouple position) <br>
-**14:58 reduction of Ag-Hbea** with 20 mL/min H2 **#55389**
-nothing happens besides an increase in intensity of the Ag peak at 2.7 A-1 which is about finished according to PCA analysis by ~ frame 40
-in frame 108, change of H2 flow to 40 mL/min
+- aborted in frame 286
+- heat ramp was programmed to constant 450 °C (set to 400 °C on controller because of T offset due to thermocouple position)
+
+**14:58 reduction of Ag-Hbea** 
+- with 20 mL/min H2 **#55389**
+- nothing happens besides an increase in intensity of the Ag peak at 2.7 A-1 which is about finished according to PCA analysis by ~ frame 40
+- in frame 108, change of H2 flow to 40 mL/min
 **16:04** abortion of reduction as no further change occured with last frame 124
 
 # empty capillary #
