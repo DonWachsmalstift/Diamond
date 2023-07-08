@@ -58,6 +58,8 @@ MS File wurde als La0.5Ce1.5NiO4.csv gespeichert
 
 # Ag-Hbea calcination and reduction #
 
+we realized that in the lab PDF data, there is a peak doublet in the range 0.3 - 0.5 A-1, which we will not see at Diamond because of the Qmin of ~ 0.6 A-1
+
 **mounting of Ag-H-bea**
 MS showed constantly huge N2 and O2 signal although 50 mL/min He were purged and capillary seemed tight; restart of MS software and then the scan took very long (several seconds to a minute) while it was done within few seconds yesterday.
 Since we could however detect no leak, we decided to start calcination.
@@ -91,8 +93,15 @@ Since we could however detect no leak, we decided to start calcination.
 yesterday after optimization of beamstop position and collimator optimization, no empty capillary was collected with final setup. <br>
 - #55390 with 6 frames each 30 s and f2=1: there are now strong dips in the empty cap data because the burnt in peaks are now subtracted. They match the high peaks from the data file #55379, see picture.
 
+PICTURE here
+
 - new dark collected 16:40
-- #55391 with 6 frames each 30 s and f2=10
+- #55391 with 6 frames each 30 s and f2=1: the dips are almost gone - one dip at 2.9 and 3.6 A-1 remains, but does not seem to stem from #55379
+- #55392 with 6 frames each 30 s and f2=10
+
+# Hbea reduction #
+since no changes should occur during calcination, a very fast heating to 450 °C will be watched followed by reduction
+- #55393, 30 s frames, 
 
 
 
