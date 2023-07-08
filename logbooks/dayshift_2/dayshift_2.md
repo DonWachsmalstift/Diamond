@@ -22,7 +22,7 @@ data collection aborted at 8:20<br>
 
 > technician came in at 7:52 to refill cryo to 70 %
 
-**8:21 catalysis started #55380** with frame time 30 s, potential run time of 3*60*2 = 3 h and gas ratio of 0.5 mL He, 16 mL H2, 4 mL CO2
+**8:21 catalysis started **#55380** with frame time 30 s, potential run time of 3*60*2 = 3 h and gas ratio of 0.5 mL He, 16 mL H2, 4 mL CO2
 intensity is gone, f was set to 100 %<br>
 when looking at PCA1, this component decreases strongly; the intensity in the colour plot of the highest peak also decreases --> correlates likely with mono failur <br>
 abort 8.32 last frame 23 <br>
@@ -72,7 +72,7 @@ Since we could however detect no leak, we decided to start calcination.
 - maximum counts were ~ 270 cts and filter was set to 1 %
 - #55385: 
 - manual overwrite of filter to f(10) and restart of data collection with collect_pe2(f2=10): #55387 intensity 
-- 12:32: start of measurement #55388, but 60 s exposures because of only 2700 cts/image
+- 12:32: start of measurement **#55388**, but 60 s exposures because of only 2700 cts/image
 - heat ramp started 12:33
 - because intensity with f(1) was only 260 cts, we chose to measure with f2=10
 - when measurement started we were at ~ 60 °C: #55388  with ca. 2600 cts maximum
