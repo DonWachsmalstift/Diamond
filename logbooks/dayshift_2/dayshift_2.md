@@ -8,7 +8,7 @@
 - 08:30 mono went off when first catalytic cycle started; took 2 hours to solve problem
 - however by this, the in-situ experiment had to be aborted 
 
-## start of day shift at 7:30##
+## start of day shift at 7:30 ##
 thermocouple was somewhat away from sample; hence, T(sample) > T(thermocouple) by ca. 100 °C during calcination <br>
   --> thermocouple needs to be set to an estimated 250 °C for cooling down to have 350 °C<br>
   --> reprogrammed by Benjamin and Felix, because we already started cooling; then maximum power for 5 s before drop to 250 °C <br>
@@ -80,6 +80,9 @@ heat ramp was programmed to constant 450 °C (set to 400 °C on controller becau
 **14:58 reduction of Ag-Hbea** with 20 mL/min H2 **#55389**
 nothing happens besides an increase in intensity of the Ag peak at 2.7 A-1 which is about finished according to PCA analysis by ~ frame 40
 in frame 108, change of H2 flow to 40 mL/min
+**16:04** abortion of reduction as no further change occured with last frame 124
+
+
 
 
 
