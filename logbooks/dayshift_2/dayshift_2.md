@@ -2,7 +2,8 @@
 07.07.
 - no setup until 14 o'clock
 - no measurement started before 22 o'clock
-- mono problems in the night
+- mono problems in the night <br>
+
 08.07.:
 - 08:30 mono went off when first catalytic cycle started
 
