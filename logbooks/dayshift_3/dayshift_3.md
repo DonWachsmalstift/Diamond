@@ -24,21 +24,24 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - moved by 1 mm back, test image - again without foreign peaks
 - H2 flowed the entire time
 - **#55419: reduction_Ni@La2O3CeO2" restarted at 11:21**
-- 
+- transformation of NiO to Ni ~ frame 45
 
 ## ex-situ capillaries ##
 laid into flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle
 
-- empty capillary: #
-- VS111-1000/IEK-9: #
-- AK150-600/IEK-9: #
-- AK152-801/IEK-9: #
-- PAN Pulver 1000 °C/IEK-9: #
-- AK172-1500/IEK-9: #
-- AK153-900/IEK-9: #
-- AK151-700/IEK-9: #
-- PAN Pulver 800 °C/IEK-9: #
-- Sr1Ti1.3Fe0.63Ni.07O3 perovskite /IEK-1: #
-- STFN_S-700°C/IEK-1: #
-- STFN_S-900°C/IEK-1: #
+- 1 empty capillary: #
+- 2 standard: #
+- 3 VS111-1000/IEK-9: #
+- 4 AK150-600/IEK-9: #
+- 5 AK152-801/IEK-9: #
+- 6 PAN Pulver 1000 °C/IEK-9: #
+- 7 AK172-1500/IEK-9: #
+- 8 AK153-900/IEK-9: #
+- 9 AK151-700/IEK-9: #
+- 10 PAN Pulver 800 °C/IEK-9: #
+-
+- 11 Sr1Ti1.3Fe0.63Ni.07O3 perovskite /IEK-1: #
+- 12 STFN_S-700°C/IEK-1: #
+- 13 STFN_S-900°C/IEK-1: #
+- 14 empty capillary for perovskite
 
