@@ -32,7 +32,8 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - frame 393: change to 2:1 (nominally 40 mL/min : 20 mL/min) at 14:36
 - aborted in frame 453, because we haven't programmed enough frames to finish the last catalysis and re-activation
 - **#55420**: change to 1:1 (nominally 30 mL/min : 30 mL/min) at 15:07
-- frame : re-activation with 
+- frame 54: re-activation with change to pure H2, heat ramp started to 600 °C with 10 K/min and H2 flow set to nominal 60 mL/min in frame 59
+- 
 
 
 ## ex-situ capillaries ##
