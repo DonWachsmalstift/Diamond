@@ -44,20 +44,23 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - frame 236: heating stopped and measurement aborted
 
 ## ex-situ capillaries ##
-laid into flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle
+2 mm capillaries are attached with "Kinderknete" to flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle.
 14 capillaries of high priority
 CTFs and Fabio's samples can be left with Phil Chater
 
 - empty capillary: #
 - standard: #
-- VS111-1000/IEK-9: 1 mm cap mounted; <br>
-  #55421 "test_VS11-1000" X-ray above capillary; #55422 hit sample, probably with a lot of glass at thicker end of capillary; afterglow from experiment before; <br>
+- **VS111-1000**/IEK-9: 1 mm cap mounted; <br>
+  #55421 "test_VS11-1000" X-ray above capillary; #55422 hit sample, probably with a lot of glass at thicker end of capillary; afterglow from experiment before? but no peaks from ; <br>
   dark taken; <br>
-  #55423 
+  #55423 and #55424 still contain small sharp peaks --> must come from sample
+  #55424 and 55425 with 2 mm capillary for 30 sec
+  **#55426** with 2 mm cap for 3 min
 
+- **AK150-600**/IEK-9: #55428 test shot with 10 sec; #55429 with 30 sec
+- **empty cap IEK9**: because we cannot find the 2 mm empty cap, we measure the end of the AK160-600 sample cap which looks pretty empty #55430, 
 - 
-- AK150-600/IEK-9: #
-- AK152-801/IEK-9: #
+- **AK152-800**/IEK-9: #55431 for 5 min
 - PAN Pulver 1000 °C/IEK-9: #
 - AK172-1500/IEK-9: #
 - AK153-900/IEK-9: #
