@@ -38,7 +38,7 @@ laid into flow cell, i.e. no ideal height positioning. Capillary likely not hit 
 - AK153-900/IEK-9: #
 - AK151-700/IEK-9: #
 - PAN Pulver 800 °C/IEK-9: #
-- perovskite /IEK-1: #
-- /IEK-1: #
-- /IEK-1: #
+- Sr1Ti1.3Fe0.63Ni.07O3 perovskite /IEK-1: #
+- STFN_S-700°C/IEK-1: #
+- STFN_S-900°C/IEK-1: #
 
