@@ -28,7 +28,7 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - 12:50: only at 500 °C
 - heat ramp adjusted for catalysis during frame 199, cooling to 350 °C with 10 K/min (programmed to 300 °C because of offset of thermocouple)
 - frame 264: catalysis started with 4:1 H2:CO2 (nominally 48 mL/min H2 : 12 mL/min CO2) at 13:32
-- 
+- frame 329: change to 3:1 (nominally 45 mL/min : 15 mL/min) at 14:05
 
 
 ## ex-situ capillaries ##
