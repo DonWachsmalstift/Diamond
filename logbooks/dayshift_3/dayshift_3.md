@@ -41,24 +41,26 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - in ~ frame 155 a Bragg peak shift to slightly higher Q values is observed, previous datasets remained unchanged in peak positions; so the peak shift is associated with temperature
 - **frame 185: set to 60 mL/min CO2**: Bragg peaks shifted within 4 frames to higher Q values as observed during catalysis before
 - **frame 216: set to 60 mL/min H2** and 0 CO2: Bragg peaks (of oxides) moved back to position of previous catalysis, while those Bragg peaks in only CO2 were shifted to slightly larger Q values
-- frame 236: heating stopped
+- frame 236: heating stopped and measurement aborted
 
 ## ex-situ capillaries ##
 laid into flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle
+14 capillaries of high priority
+CTFs and Fabio's samples can be left with Phil Chater
 
-- 1 empty capillary: #
-- 2 standard: #
-- 3 VS111-1000/IEK-9: #
-- 4 AK150-600/IEK-9: #
-- 5 AK152-801/IEK-9: #
-- 6 PAN Pulver 1000 °C/IEK-9: #
-- 7 AK172-1500/IEK-9: #
-- 8 AK153-900/IEK-9: #
-- 9 AK151-700/IEK-9: #
-- 10 PAN Pulver 800 °C/IEK-9: #
+- empty capillary: #
+- standard: #
+- VS111-1000/IEK-9: #
+- AK150-600/IEK-9: #
+- AK152-801/IEK-9: #
+- PAN Pulver 1000 °C/IEK-9: #
+- AK172-1500/IEK-9: #
+- AK153-900/IEK-9: #
+- AK151-700/IEK-9: #
+- PAN Pulver 800 °C/IEK-9: #
 -
-- 11 Sr1Ti1.3Fe0.63Ni.07O3 perovskite /IEK-1: #
-- 12 STFN_S-700°C/IEK-1: #
-- 13 STFN_S-900°C/IEK-1: #
-- 14 empty capillary for perovskite
+- Sr1Ti1.3Fe0.63Ni.07O3 perovskite /IEK-1: #
+- STFN_S-700°C/IEK-1: #
+- STFN_S-900°C/IEK-1: #
+- empty capillary for perovskite
 
