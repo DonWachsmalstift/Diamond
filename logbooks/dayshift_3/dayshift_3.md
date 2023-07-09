@@ -25,6 +25,9 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - H2 flowed the entire time
 - **#55419: reduction_Ni@La2O3CeO2" restarted at 11:21**
 - transformation of NiO to Ni ~ frame 45
+- 12:50: only at 500 °C
+- heat ramp adjusted for catalysis during frame 199, cooling to 350 °C with 10 K/min
+- 
 
 ## ex-situ capillaries ##
 laid into flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle
