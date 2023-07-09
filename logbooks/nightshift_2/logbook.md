@@ -46,7 +46,14 @@ Log
   - 55408 - 55413    
   - Methantion Drop-out cyclces at 350°C each lasting 15min
   - Methanation 1 Sucsessfull
-  - Drop-Out 1 still had H2 turned on was restarted from first dropout 
+  - Drop-Out 1 still had H2 turned on was restarted from first dropout
+  - **Additional remarks MZ:*
+  **- a) 55408 methanation*
+  **- b) 55409 dropout 1 with H2*
+  **- c) 55410 methanation*
+  **- d) 55411 dropout*
+  **- e) 55412 methanation*
+  **- f) 55413 dropout*
 ## Todo
 - Plot MS data
   - we couldnt figure out how to get the data off from the laptop
