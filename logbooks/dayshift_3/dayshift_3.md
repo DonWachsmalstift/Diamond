@@ -32,8 +32,9 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - frame 393: change to 2:1 (nominally 40 mL/min : 20 mL/min) at 14:36
 - aborted in frame 453, because we haven't programmed enough frames to finish the last catalysis and re-activation
 - **#55420**: change to 1:1 (nominally 30 mL/min : 30 mL/min) at 15:07
-- frame 54: re-activation with change to pure H2, heat ramp started to 600 °C with 10 K/min and H2 flow set to nominal 60 mL/min in frame 59
-- 
+- frame 54: re-activation with change to pure H2, heat ramp started to 600 °C with 10 K/min and H2 flow set to nominal 60 mL/min in frame 59 at ~15:36
+- by the pure H2, all Bragg peaks shift to smaller Q; the PXRD of the sample before the first catalysis (#55419, frame 260) had also Bragg peaks at Q values a bit smaller than during all catalysis runs; the Bragg peaks stayed at their positions during the catalysis, but then during re-activation shifted back to their position before catalysis and even further to lower Q
+- frame 126: cooling down to 350 °C at 16:07, because over 20 min the Bragg peak position remained unchanged
 
 
 ## ex-situ capillaries ##
