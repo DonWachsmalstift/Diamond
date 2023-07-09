@@ -13,9 +13,18 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - #55414: test image "test_Ni@La2O3CeO2", set filter to 50 %, 30 sec
 - moved sample by 1 mm
 - #55415: test image "test_Ni@La2O3CeO2", set filter to 50 %, 30 sec; both images have 25,000 cts. Therefore, we set filter manually to 10 % to prevent afterglow. <br>
-  this curve contains small additional peaks, glass wool
-- **#55416: "reduction_Ni@La2O3CeO2" start at 10:44, hydrogen set to 60 mL/min, heat ramp started in frame 4
-
+  this curve contains small additional peaks of unclear origin.
+  **NiO peaks at 2.5, 3, 4.1, 4.5, 5, 5.2, 5.9, 6.15 A-1**
+  **Ni peaks at 3.1, 3.6, 5.1 A-1**
+  
+- **#55416: "reduction_Ni@La2O3CeO2" start at 10:44**, hydrogen set to 60 mL/min, heat ramp of 10 K/min to 600 °C started in frame 4;
+- in frame 23 H2 flow changed to 40 mL/min nominally to prevent powder compression; the powder shifted in the capillary towards the thermocouple; slight increase in intensity of PXRDs over the first frames could possibly be due to more powder being pushed by the gas flow into the beam position;
+- we aborted at T = 180 °C due to foreign peaks
+- #55417: test image
+- moved by 1 mm back, test image - again without foreign peaks
+- H2 flowed the entire time
+- **#55419: reduction_Ni@La2O3CeO2" restarted at 11:21**
+- 
 
 ## ex-situ capillaries ##
 laid into flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle
