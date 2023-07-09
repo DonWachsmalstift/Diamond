@@ -1,6 +1,7 @@
 ## huge delay since cryocooler malfunction
 ## start of alligning and measuring stuff roughly 17:00
-
+### E = 76.69 keV
+### lambda = 0.161669 Angström
 installation of MS of I15-1:<br>
 decision on measurement mode of MS: we measure 0 to 50 amu, because measurement speed is quite high and this way we may detect ethanol forming as side-product
 
