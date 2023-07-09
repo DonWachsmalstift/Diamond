@@ -58,17 +58,20 @@ CTFs and Fabio's samples can be left with Phil Chater
 
 - **AK150-600**/IEK-9: #55428 test shot with 10 sec; #55429 with 30 sec
 - **empty cap IEK9 of AK150-600**: because we cannot find the 2 mm empty cap, we measure the end of the AK160-600 sample cap which looks pretty empty #55430, 
-- 
+  
 - **AK152-800**/IEK-9: **#55431** for 5 min --> the noise in the AK150-600 dataset of 3 min was similar at high Q to the noise in the AK152-900 dataset of 5 min --> we continue with 3 min per sample
 - **empty cap of AK152-800**: **#55432** for 3 min
+
 - **PAN Pulver 1000 °C**/IEK-9: **#55433** for 3 min "PAN_Pulver1000"
 - **empty cap of PAN Pulver 1000**: **#55434** for 3 min
-- **AK172-1500**/IEK-9: #
+- **AK172-1500**/IEK-9: **#55435** for 3 min
 - **AK153-900**/IEK-9: #
 - **AK151-700**/IEK-9: #
 - **PAN Pulver 800 °C**/IEK-9: #
 - standard: #
 
+
+to be measured in flow cell, because then we can possibly flow H2 through the STFN_700 or STFN_S-900 if there is only NiO  <br>
 - Sr1Ti1.3Fe0.63Ni.07O3 perovskite /IEK-1: #
 - STFN_S-700°C/IEK-1: #
 - STFN_S-900°C/IEK-1: #
