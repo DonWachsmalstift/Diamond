@@ -64,11 +64,26 @@ CTFs and Fabio's samples can be left with Phil Chater
 
 - **PAN Pulver 1000 °C**/IEK-9: **#55433** for 3 min "PAN_Pulver1000"
 - **empty cap of PAN Pulver 1000**: **#55434** for 3 min
-- **AK172-1500**/IEK-9: **#55435** for 3 min
-- **AK153-900**/IEK-9: #
-- **AK151-700**/IEK-9: #
-- **PAN Pulver 800 °C**/IEK-9: #
-- standard: #
+- [x] **AK172-1500**/IEK-9: **#55435** for 3 min
+- [x] **empty_cap_AK172-1500**/IEK-9: **#55436** for 3 min broke capillary 
+- [x] **AK153-900**/IEK-9: # **#55437**
+- [x] **empty_cap_AK153-900**/IEK-9: # **#55438**
+- [x] **AK151-700**/IEK-9: # **#55439**
+- [x] **PAN Pulver 800 °C**/IEK-9: # **#55440**
+- [x] **Standard LaB6 IEK9:** # **#55443**
+# Switchted to Kapton Samples
+- [x] **#55445 AHD Zr**  55446  Fluoresenzs
+- [ ] **#55446 AHD 35**  55447
+- [x] **#Discard  AHD 38 Including afterglow**  55447
+- [x] **AHD 38 **  55449
+- [ ] **AHD 31 **  55450
+- [ ] **AHD 30 **  55451
+- [ ] **AHD 30  aborted**  55452
+- [ ] **AHD 30 3min **  55453
+  
+# For tonight
+  Ag@HBea rereduction if different
+  Already calcined
 
 
 to be measured in flow cell, because then we can possibly flow H2 through the STFN_700 or STFN_S-900 if there is only NiO  <br>
