@@ -27,7 +27,7 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - transformation of NiO to Ni ~ frame 45
 - 12:50: only at 500 °C
 - heat ramp adjusted for catalysis during frame 199, cooling to 350 °C with 10 K/min (programmed to 300 °C because of offset of thermocouple)
-- 
+- frame 264: catalysis started with 4:1 H2:CO2 (nominally 48 mL/min H2 : 12 mL/min CO2) at 13:32
 
 ## ex-situ capillaries ##
 laid into flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle
