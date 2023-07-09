@@ -13,8 +13,8 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - #55414: test image "test_Ni@La2O3CeO2", set filter to 50 %, 30 sec
 - moved sample by 1 mm
 - #55415: test image "test_Ni@La2O3CeO2", set filter to 50 %, 30 sec; both images have 25,000 cts. Therefore, we set filter manually to 10 % to prevent afterglow. <br>
-  this curve contains small additional peaks of unclear origin.
-  **NiO peaks at 2.5, 3, 4.1, 4.5, 5, 5.2, 5.9, 6.15 A-1**
+  this curve contains small additional peaks of unclear origin. <br>
+  **NiO peaks at 2.5, 3, 4.1, 4.5, 5, 5.2, 5.9, 6.15 A-1** <br>
   **Ni peaks at 3.1, 3.6, 5.1 A-1**
   
 - **#55416: "reduction_Ni@La2O3CeO2" start at 10:44**, hydrogen set to 60 mL/min, heat ramp of 10 K/min to 600 °C started in frame 4;
@@ -28,6 +28,8 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - 12:50: only at 500 °C
 - heat ramp adjusted for catalysis during frame 199, cooling to 350 °C with 10 K/min (programmed to 300 °C because of offset of thermocouple)
 - frame 264: catalysis started with 4:1 H2:CO2 (nominally 48 mL/min H2 : 12 mL/min CO2) at 13:32
+- 
+
 
 ## ex-situ capillaries ##
 laid into flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle
