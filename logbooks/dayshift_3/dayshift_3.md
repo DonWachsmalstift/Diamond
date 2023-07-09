@@ -62,7 +62,7 @@ CTFs and Fabio's samples can be left with Phil Chater
 - **AK152-800**/IEK-9: **#55431** for 5 min --> the noise in the AK150-600 dataset of 3 min was similar at high Q to the noise in the AK152-900 dataset of 5 min --> we continue with 3 min per sample
 - **empty cap of AK152-800**: **#55432** for 3 min
 - **PAN Pulver 1000 °C**/IEK-9: **#55433** for 3 min "PAN_Pulver1000"
-- **empty cap of PAN Pulver 1000**: **#55434**
+- **empty cap of PAN Pulver 1000**: **#55434** for 3 min
 - **AK172-1500**/IEK-9: #
 - **AK153-900**/IEK-9: #
 - **AK151-700**/IEK-9: #
