@@ -26,7 +26,7 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - **#55419: reduction_Ni@La2O3CeO2" restarted at 11:21**
 - transformation of NiO to Ni ~ frame 45
 - 12:50: only at 500 °C
-- heat ramp adjusted for catalysis during frame 199, cooling to 350 °C with 10 K/min
+- heat ramp adjusted for catalysis during frame 199, cooling to 350 °C with 10 K/min (programmed to 300 °C because of offset of thermocouple)
 - 
 
 ## ex-situ capillaries ##
