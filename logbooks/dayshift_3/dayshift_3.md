@@ -8,8 +8,13 @@ After cleaning slow heating of thermocouple
 Gas flows checked: Nominal 20 mL/min He gave ~ 10 mL/min on the flowmeter; for H2, nominal 10 mL gave ~ 4.4 mL/min on the flowmeter
 
 ## Ni@La2O3-CeO2 ##
-
-**09Pel.26** mounting of new sample
+**10:34** mounting of new sample
+flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
+- #55414: test image "test_Ni@La2O3CeO2", set filter to 50 %, 30 sec
+- moved sample by 1 mm
+- #55415: test image "test_Ni@La2O3CeO2", set filter to 50 %, 30 sec; both images have 25,000 cts. Therefore, we set filter manually to 10 % to prevent afterglow. <br>
+  this curve contains small additional peaks, glass wool
+- **#55416: "reduction_Ni@La2O3CeO2" start at 10:44, hydrogen set to 60 mL/min, heat ramp started in frame 4
 
 
 ## ex-situ capillaries ##
