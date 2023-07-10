@@ -44,9 +44,12 @@ flushing with He 10 mL/min nominally (i.e. 3.5 mL/min) <br>
 - frame 236: heating stopped and measurement aborted
 
 ## ex-situ capillaries ##
-2 mm capillaries are attached with "Kinderknete" to flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle.
-14 capillaries of high priority
-CTFs and Fabio's samples can be left with Phil Chater
+2 mm capillaries are attached with "Kinderknete" to flow cell, i.e. no ideal height positioning. Capillary likely not hit in middle. <br>
+14 capillaries of high priority. <br>
+CTFs and Fabio's samples can be left with Phil Chater. <br>
+
+> **! Because of the manual mounting of each capillary, each capillary could have a slightly different sample-detector distance.**
+> The *Kinderknete* was put into the nuts such, that the hole in the nut could be felt. Therefore, the capillaries were accurate within this hole, i.e. 2 mm. Hence, 1 mm capillaries could be off by about 1 mm. This would correspond to 0.07 A-1 according to an estimate of Fabio. How does this compare to the delta Q of our instrumental resolution?
 
 
 - **VS111-1000**/IEK-9: 1 mm cap mounted; <br>
