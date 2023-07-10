@@ -25,6 +25,7 @@ did not show any pecularities according to Benjamin
 ## Calcination of Ag-HBea
 second calcination of Ag-HBea with 10 K/min <br>
 The calcination of Cu-HBea was done with 5 K/min, for the Ag-HBea one on day  two, MZ forgot to note the heat ramp. Since we have only 1 h left, we could not ramp with 5 K/min up to 450 degree. <br>
-The first calcination in #55388 showed a first structural transition in frame ~35 and a second one in ~ frame 135, i.e. at about (35/2) = 16 min and 67 min, which represents 80 and 335 degrees. With 5 K/min the upper transition of 335 degrees, could not have been made within 1 hour, so therefore the heating ramp was set to 10 K/min.
+The first calcination in #55388 showed a first structural transition in frame ~35 and a second one in ~ frame 135, i.e. at about (35/2) = 16 min and 67 min, which represents 80 and 335 degrees. With 5 K/min the upper transition of 335 degrees, could not have been made within 1 hour, so therefore the heating ramp was set to 10 K/min. <br>
+about 220 degree at 08:07 <br>
 
   
