@@ -31,7 +31,7 @@ The first calcination in #55388 showed a first structural transition in frame ~*
 about 220 degree at 08:07 <br>
 > **! The heat shield of metal-Al-Kapton foil to keep the heat was not put in place before the measurement was started.** The temperature in the sample may be different from the other experiments because of the missing heat shield. <br>
 pressurized air was not switched on with start of experiment; <br>
-in frame *127* the pressurized air was switched on; then the powder became black, in frame *132* the strong PXRD peaks then also appear
+in frame *127* the pressurized air was switched on; then the powder became black, in frame *132* the strong PXRD peaks then also appear< heating was switched off in frame *142*, measurement aborted in *145*
 
 **#55495** empty capillary without heat shield
 
