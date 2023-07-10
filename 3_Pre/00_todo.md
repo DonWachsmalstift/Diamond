@@ -3,7 +3,7 @@
 ## ToDo:
 - [x] optimize flow cell T pice thermocouple connection, too flimsy/complex now
 - [ ] Get used to linux
-  - Script/mask creation with: pyFAI-calib2 
+- [ ]Script/mask creation with: pyFAI-calib2 
 - [x] ceck 1_tobuy.md 
 - [ ] Workflow for dpf/dxrd pdfgetx3
 - [x] learn pyFAI-integrate
