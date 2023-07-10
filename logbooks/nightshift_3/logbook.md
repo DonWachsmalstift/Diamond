@@ -33,6 +33,6 @@ about 220 degree at 08:07 <br>
 pressurized air was not switched on with start of experiment; <br>
 in frame *127* the pressurized air was switched on; then the powder became black, in frame *132* the strong PXRD peaks then also appear< heating was switched off in frame *142*, measurement aborted in *145*
 
-**#55495** empty capillary without heat shield
+**#55495** empty capillary without heat shield, 6 frames with 30 s each
 
   
